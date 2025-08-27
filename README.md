@@ -19,6 +19,8 @@ npx @modelcontextprotocol/inspector
 
 ## 3. MCP 클라이언트
 ```bash
+cd client
+
 #example: docker build --build-arg GITHUB_TOKEN=sdsdsd1234  -t client .
 docker build --build-arg GITHUB_TOKEN=your-token  -t client .
 
