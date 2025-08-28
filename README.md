@@ -4,9 +4,9 @@
     - GitHub에서 제공하는 무료 GPT 4o mini 모델
         
 - **MCP 클라이언트**: 생성형 AI 모델 <-> MCP 서버  
-    - GitHub에서 제공하는 무료 GPT 4o mini 모델 API와 지식/액션 도구 API를 LangChain4j(SDK)를 사용해 호출
+    - LangChain4j(SDK)를 사용해 MCP 호스트(GPT-4o) API와 MCP 서버(지식/액션 도구) API 호출.  
     - Spring Boot(Java 21) 기반 앱
-        
+          
 - **MCP 서버**: 지식/액션 도구
     - 계산기 기능(액션)을 가진 SpringBoot(Java 21) 기반 앱
  
