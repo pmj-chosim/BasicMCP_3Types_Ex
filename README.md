@@ -10,7 +10,7 @@
 - **MCP 서버**: 지식/액션 도구
     - 계산기 기능(액션)을 가진 SpringBoot 기반 앱
  
-        
+<br>        
 
 ## 0. 사전 준비
 - Docker or Docker Desktop
